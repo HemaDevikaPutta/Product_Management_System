@@ -44,7 +44,7 @@ def create_app():
 
     app.config['NEO4J_URI'] = 'bolt://localhost:7687'
     app.config['NEO4J_USERNAME'] = 'neo4j'
-    app.config['NEO4J_PASSWORD'] = '00000000'
+    app.config['NEO4J_PASSWORD'] = 'PJMLakshmi@10'
 
     init_neo4j(app)
 
