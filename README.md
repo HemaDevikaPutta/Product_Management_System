@@ -34,7 +34,7 @@ User(admin) Dashboard
 
 **Overview** :
 
-we are Going to Compare  R-DB vs Knowledge Graph by Develop an flask application in two ways 1 with SQL(R-DB) as Backend and the other with Neo4J as backend and the Front end is of HTML and CSS.
+I am Comparing the  R-DB vs Knowledge Graph by Develop an flask application in two ways 1 with SQL(R-DB) as Backend and the other with Neo4J as backend and the Front end is of HTML and CSS.
 The application - Product Management System 
 
 **R-DB** 
